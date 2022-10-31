@@ -3797,6 +3797,13 @@ input, select, textarea {
 			border-radius: 10px
 		}
 
+		img.newSize3 {
+			width: 84%;
+			height: 10%;
+			border: 2px solid purple;
+			border-radius: 10px
+		}
+
 		.icon.solid.major.style1.fa-code {
 			border: none;
 			background-color: #ffffff;
