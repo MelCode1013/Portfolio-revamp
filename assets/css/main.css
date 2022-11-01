@@ -3816,3 +3816,14 @@ input, select, textarea {
 			border-radius: 0;
 	
 		}
+
+/*thanks page button */
+
+#back-button {
+	border-bottom: none;
+	font-family:'Source Sans Serif', sans-serif;
+}
+
+.thanks-header {
+	height: 100vh;
+}
