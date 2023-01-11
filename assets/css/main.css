@@ -3785,21 +3785,44 @@ input, select, textarea {
 		}
 
 /*project gifs*/
+.test {
+	height: 275px;
+}
+a {
+	border-bottom: none;
+}
 
-		.newSize {
-			width: 70%;
-			border: 2px solid purple;
-				border-radius: 10px
+.mami_cantina {
+	max-width: 100%;
+	height: auto;
+}
+
+/*.test2 {
+	max-height: 35%;
+		min-height: 14%;
+	width: auto;
+	border: 2px solid purple;
+	border-radius: 10px
+}
+		.test {
+			max-height: 15%;
+			width: auto;
+border: 2px solid purple;
+	border-radius: 10px
+	
 		}
-		.newSize2 {
-			width: 76.5%;
+
+
+		.newSize_30 {
+			max-width: 95%;
+			max-height: 30%;
 			border: 2px solid purple;
 			border-radius: 10px
 		}
 
 		img.newSize3 {
-			width: 84%;
-			height: 10%;
+			max-width: 95%;
+			max-height: 50%;
 			border: 2px solid purple;
 			border-radius: 10px
 		}
@@ -3816,6 +3839,8 @@ input, select, textarea {
 			border-radius: 0;
 	
 		}
+
+		 */
 
 /*thanks page button */
 
